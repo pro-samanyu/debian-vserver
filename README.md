@@ -1,7 +1,7 @@
 ![Debian](https://img.shields.io/badge/Debian-Bookworm-d70751?logo=debian)
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
 
-# Debian-Railway
+# Debian-Vserver
 
 Want to try out Debian or want to have a mini version of Debian available at all times? Then feel free to give this project a try:
 
