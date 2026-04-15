@@ -1,0 +1,10 @@
+docker build -t my-terminal-app .
+
+  
+docker run -d \
+  -p 8080:8080 \
+  -e PORT=8080 \
+  -e USERNAME=admin \
+  -e PASSWORD=password123 \
+  --name my-running-terminal \
+  my-terminal-app
