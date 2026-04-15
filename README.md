@@ -5,7 +5,6 @@
 
 Want to try out Debian or want to have a mini version of Debian available at all times? Then feel free to give this project a try:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/debian-linux)
 
 ## Description
 
@@ -43,10 +42,6 @@ Click the deploy button above to deploy this template to Railway. The deployment
 - Remote development environment
 - Package testing
 
-## Dependencies for Deployment
-
-- Docker (handled by Railway)
-- Railway account
 
 ### Deployment Dependencies
 
@@ -59,10 +54,4 @@ This template automatically installs:
 - neofetch
 - ttyd
 
-## About Hosting
 
-Railway provides free tier hosting with:
-- $1 free credit monthly
-- Automatic HTTPS
-- Custom domains support
-- Easy environment variable management
